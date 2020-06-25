@@ -1,0 +1,26 @@
+{
+	"name": "@xutl/aim",
+	"version": "1.0.1",
+	"description": "Async Iterable Iterators Mapping",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "xutltest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xutl-es/aim.git"
+	},
+	"keywords": [
+		"XtremelyUsefulToolLibraries",
+		"AsyncIterableIterator"
+	],
+	"author": "XUTL <dev@xutl.es>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/xutl-es/aim/issues"
+	},
+	"homepage": "https://xutl.es",
+	"devDependencies": {
+		"typescript": "^3.9.5"
+	}
+}
